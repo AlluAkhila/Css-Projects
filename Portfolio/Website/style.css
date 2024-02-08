@@ -1,0 +1,68 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+.Page1 {
+  background-image: url(https://wallup.net/wp-content/uploads/2015/12/243666-forest-simple_background-trees-path-nature-landscape.jpg);
+  min-height: 100%;
+}
+.Page2 {
+  background-image: url(https://i.pinimg.com/originals/cc/98/92/cc9892dd57e15efcce8fa19bd0de2e1f.jpg);
+  min-height: 400px;
+}
+.Page3 {
+  background-image: url(https://tse4.mm.bing.net/th?id=OIP.3DuVz21y-pXmgRYFZIdYPQHaF5&pid=Api&P=0&h=180);
+  min-height: 400px;
+}
+.Page1,
+.Page2,
+.Page3 {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.Ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.textbg {
+  background: #313534;
+  color: #fff;
+  padding: 20px;
+}
+
+.section-light{
+  padding: 50px 80px;
+  text-align: center;
+}
+.section-Dark {
+  background-color: #f4f4f4;
+  color: #666;
+}
+.section-Bright{
+  background-color: #282e34;
+  color: #ddd;
+}
+footer
+{
+    background-color: azure;
+    color: aqua;
+    font-size:10px ;
+    padding: 5px;
+    text-align: right;
+}

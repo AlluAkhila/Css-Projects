@@ -1,0 +1,32 @@
+h2{
+    background-color:blueviolet;
+    color: aliceblue;
+  }
+  
+  ul{
+    background-color: cadetblue;
+    color:white;
+    
+  }
+  body{
+    background-color: pink;
+    color: azure;
+    font-size: 20px;
+    box-sizing:border-box;
+    padding: 5px;
+    scroll-behavior: smooth;
+    align-items: center;
+    border-radius: 10px;
+    
+  }
+  span{
+    color: darkcyan;
+  }
+  p{
+    color: black;
+  }
+  id img{
+    height: 200px;
+    width: 200px;
+    align-items: center;
+  }
