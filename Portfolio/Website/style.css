@@ -29,7 +29,6 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-
 .Ptext {
   position: absolute;
   top: 50%;
@@ -45,7 +44,6 @@ body {
   color: #fff;
   padding: 20px;
 }
-
 .section-light{
   padding: 50px 80px;
   text-align: center;
